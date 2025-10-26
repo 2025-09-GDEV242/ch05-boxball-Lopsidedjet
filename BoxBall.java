@@ -14,10 +14,7 @@ import java.awt.geom.*;
  *
  * This movement can be initiated by repeated calls to the "move" method.
  * 
- * @author Michael Kölling (mik)
- * @author David J. Barnes
- * @author Bruce Quig
- * @author William Crosbie
+ * @author Joseph Patti
  *
  * @version 2025.10.06
  */
